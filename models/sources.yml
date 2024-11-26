@@ -8,6 +8,6 @@ sources:
       - name: order_items
       - name: orders
       - name: products
-      - name: staff
+      - name: staffs
       - name: stocks
       - name: stores
